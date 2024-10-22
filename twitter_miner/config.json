@@ -1,0 +1,5 @@
+{
+	"usernames": ["company1","company2","company3","companyx", "..."],
+	"apikey" : "INSERT_BEARER_TOKEN",
+	"dbserver" : "0.0.0.0:27017"
+}
