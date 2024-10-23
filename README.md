@@ -1,7 +1,7 @@
-# SocialUserClustering
+# Social User Clustering
 
 ## Abstract
-With the aim of improving security in companies, this Final Degree Project shows the research and development of a tool that extracts and processes information from the different social network profiles of a company's employees. It has been carried out in collaboration with the Spanish cybersecurity company S2 Grupo within the departments of Research, Development and Innovation (R+D+i) and Computer Network Attack (CNA).
+With the aim of improving security in companies, this End-of-Degree Project shows the research and development of a tool that extracts and processes information from the different social network profiles of a company's employees. It has been carried out in collaboration with the Spanish cybersecurity company S2 Grupo within the departments of Research, Development and Innovation (R+D+i) and Computer Network Attack (CNA).
 
 The aim is to be able to group these employees on the basis of their follower relationships on the Twitter social network, thus drawing a map of the company's social profiles to identify possible targets, vulnerabilities and entry points for the preparation of phishing campaigns.
 
